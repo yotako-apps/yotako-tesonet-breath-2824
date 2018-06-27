@@ -1,0 +1,664 @@
+.main-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 375px
+}
+.style93 {
+  background-color: #648cff;
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 375px;
+  height: 188px;
+  flex-direction: column
+}
+.container17row0 {
+  display: flex;
+  margin-top: 6px;
+  width: 228px;
+  height: 5px;
+  align-items: center;
+  align-self: center
+}
+.style115 {
+  color: #fff;
+  font-family: Ubuntu,serif;
+  font-size: .3125em;
+  font-weight: 700;
+  margin-left: 0;
+  height: 100%
+}
+.style116,
+.style117,
+.style118,
+.style119 {
+  color: #fff;
+  font-family: Ubuntu,serif;
+  font-size: .25em;
+  margin-left: 31px;
+  height: 3px
+}
+.style116,
+.style117,
+.style118 {
+  color: #e1e1e1;
+  margin-left: 16px
+}
+.style117,
+.style118 {
+  margin-left: 21px
+}
+.style118 {
+  margin-left: 18px
+}
+.style120 {
+  margin-left: 29px;
+  width: 2px;
+  height: 100%
+}
+.style121,
+.style122 {
+  margin-left: 8px;
+  width: 5px;
+  height: 100%
+}
+.style121 {
+  margin-left: 7px
+}
+.container17row1 {
+  display: flex;
+  margin-left: 73px;
+  margin-top: 28px;
+  width: 217px;
+  height: 118px
+}
+.style101,
+.style102 {
+  color: #fff;
+  font-family: Ubuntu,serif;
+  margin-left: 0
+}
+.style102 {
+  font-weight: 700;
+  font-size: .6875em;
+  margin-top: 19px;
+  width: 94px
+}
+.style101 {
+  font-size: .25em;
+  line-height: 6px;
+  margin-top: 52px;
+  width: 76px
+}
+.style111 {
+  background-color: #fc6a42;
+  display: flex;
+  margin-left: 109px;
+  margin-top: 57px;
+  width: 18px;
+  height: 18px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center
+}
+.style112 {
+  color: #fff;
+  font-family: Ubuntu,serif;
+  font-size: .25em;
+  font-weight: 700;
+  letter-spacing: -1px;
+  height: 3px
+}
+.style96 {
+  margin-left: 7px;
+  width: 57px;
+  height: 100%;
+  align-self: stretch
+}
+.container17row1column3 {
+  position: relative;
+  display: flex;
+  margin-left: 3px;
+  margin-top: 16px;
+  width: 18px;
+  height: 54px;
+  flex-direction: column
+}
+.style107 {
+  background-color: #fff;
+  display: flex;
+  margin-top: 0;
+  width: 12px;
+  height: 12px;
+  align-items: center;
+  flex-direction: column;
+  flex-shrink: 0;
+  justify-content: center
+}
+.style108 {
+  color: #6ca3ff;
+  font-family: Ubuntu,serif;
+  font-size: .25em;
+  font-weight: 700;
+  height: 3px
+}
+.style113 {
+  background-color: #4466c9;
+  position: relative;
+  display: flex;
+  margin-left: 5px;
+  margin-top: 24px;
+  width: 18px;
+  height: 18px;
+  align-items: center;
+  flex-direction: column;
+  flex-shrink: 0;
+  justify-content: center
+}
+.style114 {
+  color: #fff;
+  font-family: Ubuntu,serif;
+  font-size: .1875em;
+  font-weight: 700;
+  letter-spacing: -1px;
+  height: 3px
+}
+.style94 {
+  background-image: url(https://designresources.assets.yotako.io/40599ugjiwk6k2t.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x: center;
+  background-position-y: center;
+  position: relative;
+  display: flex;
+  margin-top: 107px;
+  width: 100%;
+  height: 83px;
+  align-items: stretch;
+  align-self: stretch;
+  flex-direction: column
+}
+.container17image23row0 {
+  display: flex;
+  margin-top: 5px;
+  height: 82px;
+  align-items: stretch
+}
+.style95 {
+  opacity: .54;
+  width: 375px
+}
+.container17image23row0column0,
+.style97 {
+  display: flex;
+  width: 375px;
+  flex-direction: column
+}
+.style97 {
+  background-color: #fc6a42;
+  margin-left: 73px;
+  margin-top: 0;
+  width: 31px;
+  height: 11px;
+  align-items: center;
+  justify-content: center
+}
+.style98 {
+  color: #fff;
+  font-family: Ubuntu,serif;
+  font-size: .25em;
+  font-weight: 700;
+  height: 3px
+}
+.style99 {
+  background-color: #4466c9;
+  display: flex;
+  margin-left: 106px;
+  margin-top: 0;
+  width: 31px;
+  height: 11px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center
+}
+.style100 {
+  color: #fff;
+  font-family: Ubuntu,serif;
+  font-size: .25em;
+  font-weight: 700;
+  height: 3px
+}
+.style109 {
+  background-color: #fcec64;
+  display: flex;
+  margin-left: 271px;
+  margin-top: 29px;
+  width: 11px;
+  height: 11px;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center
+}
+.style110 {
+  color: #648cff;
+  font-family: Ubuntu,serif;
+  font-size: .25em;
+  font-weight: 700;
+  height: 3px
+}
+.style103,
+.style104 {
+  display: flex;
+  align-items: center;
+  flex-direction: column
+}
+.style103 {
+  background-image: url(https://designresources.assets.yotako.io/40599ugjiwk6kii.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x: center;
+  background-position-y: center;
+  opacity: .09;
+  align-self: center;
+  margin-top: 0;
+  width: 17px;
+  height: 17px
+}
+.style104 {
+  background-color: #fff;
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+  border-bottom-left-radius: 7px;
+  border-bottom-right-radius: 7px;
+  margin-top: 1px;
+  width: 10px;
+  height: 10px;
+  justify-content: center
+}
+.style105,
+.style106 {
+  background-color: #ff4a4f;
+  position: relative;
+  height: 2px
+}
+.style105 {
+  display: flex;
+  width: 2px;
+  align-items: stretch;
+  flex-direction: column
+}
+.style106 {
+  flex-shrink: 0
+}
+.style82 {
+  color: #648cff;
+  font-family: Ubuntu,serif;
+  font-size: .4375em;
+  font-weight: 700;
+  margin-left: 154px;
+  margin-top: 25px;
+  height: 5px
+}
+.style83 {
+  color: #999;
+  font-size: .25em;
+  margin-left: 175px;
+  margin-top: 6px;
+  height: 4px
+}
+.style13,
+.style14,
+.style83 {
+  font-family: Ubuntu,serif
+}
+.style13 {
+  font-weight: 700;
+  color: #648cff;
+  font-size: .4375em;
+  margin-left: 146px;
+  margin-top: 2px;
+  height: 5px
+}
+.style14 {
+  color: #999;
+  font-size: .25em;
+  margin-left: 186px;
+  margin-top: 5px;
+  height: 3px
+}
+.row5 {
+  display: flex;
+  margin-left: 73px;
+  margin-top: 11px;
+  width: 212px;
+  height: 12px
+}
+.style84 {
+  background-image: url(https://designresources.assets.yotako.io/40599ugjiwk6jbq.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x: center;
+  background-position-y: center;
+  position: relative;
+  display: flex;
+  margin-left: 0;
+  width: 16px;
+  height: 100%;
+  align-items: center;
+  flex-direction: column
+}
+.style16,
+.style85 {
+  font-family: Ubuntu,serif
+}
+.style16 {
+  position: relative;
+  margin-top: 6px;
+  flex-shrink: 0;
+  color: #648cff;
+  font-size: 1.625em;
+  height: 7px
+}
+.style85 {
+  color: #353854;
+  font-size: .3125em;
+  font-weight: 700;
+  margin-left: 4px;
+  height: 5px
+}
+.style87 {
+  margin-left: 78px;
+  width: 15px;
+  height: 100%
+}
+.row5column3 {
+  display: flex;
+  margin-left: 4px;
+  width: 33px;
+  height: 13px;
+  align-items: flex-end;
+  flex-direction: column
+}
+.style20,
+.style88 {
+  font-family: Ubuntu,serif
+}
+.style88 {
+  font-weight: 700;
+  color: #353854;
+  font-size: .3125em;
+  margin-top: 0;
+  height: 4px
+}
+.style20 {
+  color: #648cff;
+  font-size: 1.625em;
+  margin-top: 2px;
+  height: 7px
+}
+.style90 {
+  margin-left: 26px;
+  width: 15px;
+  height: 100%
+}
+.style91 {
+  color: #353854;
+  font-family: Ubuntu,serif;
+  font-size: .3125em;
+  font-weight: 700;
+  margin-left: 5px;
+  height: 4px
+}
+.row6 {
+  position: relative;
+  display: flex;
+  margin-left: 93px;
+  margin-top: 0;
+  width: 206px;
+  height: 15px;
+  align-items: stretch;
+  justify-content: space-between
+}
+.style86 {
+  color: #aeaeae;
+  font-family: Ubuntu,serif;
+  font-size: .1875em;
+  line-height: 6px;
+  width: 50px
+}
+.style89 {
+  position: relative
+}
+.style89,
+.style92 {
+  color: #aeaeae;
+  font-family: Ubuntu,serif;
+  font-size: .1875em;
+  line-height: 6px;
+  width: 50px
+}
+.row7 {
+  position: relative;
+  display: flex;
+  margin-left: 76px;
+  margin-top: 271px;
+  width: 221px;
+  height: 12px;
+  align-items: stretch
+}
+.style15,
+.style19 {
+  color: #353854;
+  font-family: Ubuntu,serif;
+  font-size: .3125em;
+  line-height: 8px;
+  position: relative;
+  margin-left: 0;
+  width: 106px
+}
+.style19 {
+  margin-left: 11px;
+  width: 104px
+}
+.row8 {
+  display: flex;
+  margin-left: 76px;
+  margin-top: 5px;
+  width: 140px;
+  height: 4px;
+  align-items: stretch
+}
+.style18,
+.style22 {
+  color: #353854;
+  font-family: Ubuntu,serif;
+  font-size: .25em;
+  margin-left: 0
+}
+.style22 {
+  margin-left: 97px
+}
+.row9 {
+  position: relative;
+  display: flex;
+  margin-left: 174px;
+  margin-top: 0;
+  width: 126px;
+  height: 7px;
+  align-items: stretch
+}
+.style17,
+.style21 {
+  color: #648cff;
+  font-family: Ubuntu,serif;
+  font-size: -1.5625em;
+  margin-left: 0
+}
+.style21 {
+  margin-left: 108px
+}
+.row10 {
+  display: flex;
+  margin-left: 77px;
+  margin-top: 19px;
+  width: 126px;
+  height: 7px;
+  align-items: stretch
+}
+.style24,
+.style28 {
+  color: #648cff;
+  font-family: Ubuntu,serif;
+  font-size: 1.625em;
+  margin-left: 0
+}
+.style28 {
+  margin-left: 108px
+}
+.style74 {
+  background-color: #648cff;
+  position: relative;
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 375px;
+  height: 91px;
+  flex-direction: column
+}
+.container16row1,
+.style77 {
+  position: relative;
+  margin-left: 234px;
+  margin-top: 13px;
+  width: 57px;
+  height: 118px;
+  flex-shrink: 0
+}
+.container16row1 {
+  display: flex;
+  margin-left: 74px;
+  margin-top: 24px;
+  width: 257px;
+  height: 123px
+}
+.style78 {
+  color: #fff;
+  font-family: Ubuntu,serif;
+  font-size: .4375em;
+  font-weight: 700;
+  margin-left: 1px;
+  height: 5px
+}
+.container16row1column0 {
+  display: flex;
+  margin-left: 0;
+  width: 95px;
+  height: 45px;
+  flex-direction: column
+}
+.style79 {
+  color: #fff;
+  font-family: Ubuntu,serif;
+  font-size: .25em;
+  margin-top: 14px;
+  width: 70px
+}
+.container16row1column0row1 {
+  display: flex;
+  margin-top: 6px;
+  width: 57px;
+  height: 9px;
+  align-items: stretch
+}
+.style80 {
+  margin-left: 0;
+  width: 29px
+}
+.style81 {
+  margin-left: 1px;
+  width: 27px
+}
+.style75,
+.style76 {
+  width: 61px;
+  height: 100%
+}
+.style75 {
+  position: relative;
+  margin-left: 117px
+}
+.style76 {
+  margin-left: 18px
+}
+.style61 {
+  background-color: #353854;
+  display: flex;
+  margin-left: 0;
+  margin-top: 0;
+  width: 375px;
+  height: 73px;
+  flex-direction: column
+}
+.container13row0 {
+  display: flex;
+  margin-left: 74px;
+  margin-top: 20px;
+  width: 104px;
+  height: 4px;
+  align-items: stretch
+}
+.style62 {
+  color: #fc6a42;
+  font-family: Ubuntu,serif;
+  font-size: .3125em;
+  font-weight: 700;
+  margin-left: 0
+}
+.style63,
+.style66 {
+  color: #fff;
+  font-family: Ubuntu,serif;
+  font-size: .25em;
+  margin-left: 31px
+}
+.style63 {
+  color: #b5b5c8;
+  margin-left: 16px
+}
+.style71 {
+  background-color: #434769;
+  margin-left: 33px;
+  margin-top: 19px;
+  width: 312px;
+  height: 1px
+}
+.style67 {
+  color: #565b87;
+  font-family: Ubuntu,serif;
+  font-size: .1875em;
+  margin-left: 219px;
+  margin-top: 10px;
+  height: 3px
+}
+.container13row3 {
+  display: flex;
+  margin-left: 352px;
+  margin-top: 8px;
+  width: 10px;
+  height: 9px;
+  align-items: center;
+  justify-content: center
+}
+.style72 {
+  background-color: #434769;
+  border-top-left-radius: 1px;
+  border-top-right-radius: 1px;
+  border-bottom-left-radius: 1px;
+  border-bottom-right-radius: 1px;
+  width: 10px;
+  height: 100%
+}
+.style73 {
+  width: 4px;
+  height: 2px
+}
